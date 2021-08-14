@@ -1,7 +1,7 @@
 # Warp-Plus-Hook
 Warp Plus Hook GB
 
-# How to use script with Termux
+# How to use script with Termux on Android
 Download Termux from PlayStore
 
 Install python `pkg install python`
